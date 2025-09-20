@@ -1,0 +1,2 @@
+Esta página es estática, no tiene ningún tipo de interactividad, no tiene scripts ni botones y como no hace uso de bootstrap ni ninguna librería para darle más estilo todo esta apilado verticalmente, solo son dos archivos, no requiere dependencias y se ve así
+<img width="750" height="598" alt="{359B4C7C-45C5-468C-8450-949DBDFCEFCC}" src="https://github.com/user-attachments/assets/9e39ba05-2c9b-4e93-b13e-93fd219b0034" />
